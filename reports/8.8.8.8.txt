@@ -1,0 +1,9 @@
+PhantomRecon X Report
+Time: 2026-04-08 23:18:17.344120
+
+IP: 8.8.8.8
+Country: United States
+City: Ashburn
+ISP: Google LLC
+Hostname: dns.google
+Organization: N/A
